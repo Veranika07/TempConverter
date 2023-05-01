@@ -13,6 +13,8 @@
 		4BB21A7A29E98AF300A9F827 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4BB21A7829E98AF300A9F827 /* Main.storyboard */; };
 		4BB21A7C29E98AF800A9F827 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4BB21A7B29E98AF800A9F827 /* Assets.xcassets */; };
 		4BB21A7F29E98AF800A9F827 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4BB21A7D29E98AF800A9F827 /* LaunchScreen.storyboard */; };
+		4BE0161429FD219A0078D088 /* InfoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4BE0161329FD219A0078D088 /* InfoViewController.swift */; };
+		4BE0161A29FFBE530078D088 /* SettingsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4BE0161929FFBE530078D088 /* SettingsViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +26,8 @@
 		4BB21A7B29E98AF800A9F827 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		4BB21A7E29E98AF800A9F827 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		4BB21A8029E98AF800A9F827 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4BE0161329FD219A0078D088 /* InfoViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InfoViewController.swift; sourceTree = "<group>"; };
+		4BE0161929FFBE530078D088 /* SettingsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,7 +63,9 @@
 				4BB21A7229E98AF300A9F827 /* AppDelegate.swift */,
 				4BB21A7429E98AF300A9F827 /* SceneDelegate.swift */,
 				4BB21A7629E98AF300A9F827 /* ViewController.swift */,
+				4BE0161929FFBE530078D088 /* SettingsViewController.swift */,
 				4BB21A7829E98AF300A9F827 /* Main.storyboard */,
+				4BE0161329FD219A0078D088 /* InfoViewController.swift */,
 				4BB21A7B29E98AF800A9F827 /* Assets.xcassets */,
 				4BB21A7D29E98AF800A9F827 /* LaunchScreen.storyboard */,
 				4BB21A8029E98AF800A9F827 /* Info.plist */,
@@ -141,6 +147,8 @@
 				4BB21A7729E98AF300A9F827 /* ViewController.swift in Sources */,
 				4BB21A7329E98AF300A9F827 /* AppDelegate.swift in Sources */,
 				4BB21A7529E98AF300A9F827 /* SceneDelegate.swift in Sources */,
+				4BE0161A29FFBE530078D088 /* SettingsViewController.swift in Sources */,
+				4BE0161429FD219A0078D088 /* InfoViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
